@@ -1,6 +1,8 @@
 ## It's that time of the year again!
 #### The time of Hacktoberfest is upon us, and this time we're prepared.
-Find herewith a bunch of active repositories to contribute to, start with your journey of open source, whilst helping out deployed projects! Cool? Let's go!
+Find herewith a bunch of active repositories to contribute to, start with your journey of open source, whilst helping out deployed projects!
+Sounds Cool?
+Let's go!
 
 - #### <a href="https://github.com/alfhad/QuizzR-API">QuizzR API</a> - Help the maintainers get more trivia quiz questions.
 - #### <a href="https://github.com/GDSC-BSIOTR/Fly-Learn/blob/main/index.json">Fly Learn</a> - Developer Courses API.
