@@ -11,6 +11,6 @@ Find herewith a bunch of active repositories to contribute to, start with your j
 - #### <a href="https://github.com/GDSC-BSIOTR/Know_your_laws.git">Know your Laws</a> - Dataset of Indian Law Articles.
 - #### <a href="https://github.com/gdscwce/Game-Facts-API">Game Facts API</a> - Facts about different games.
 - #### <a href="https://github.com/gdscwce/Explain-a-Plot-Badly">Explain a Plot Badly</a> - Dataset of Badly Explained plots.
-- #### <a href="https://github.com/gdscwce/Indian-Meme-Templates">indian Meme Templates</a> - Dataset of Indian Meme Templates.
+- #### <a href="https://github.com/gdscwce/Indian-Meme-Templates">Indian Meme Templates</a> - Dataset of Indian Meme Templates.
 - #### <a href="https://github.com/gdscwce/Indian-Landmarks-API-">Indian Landmarks API</a> - API of Indian Landmarks.
 - #### <a href="https://github.com/gdscwce/Constellation-list-">Constellation List Dataset</a> - Dataset of Constellation.
