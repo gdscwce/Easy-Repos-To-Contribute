@@ -13,5 +13,7 @@ Find herewith a bunch of active repositories to contribute to, start with your j
 - #### <a href="https://github.com/gdscwce/Explain-a-Plot-Badly">Explain a Plot Badly</a> - Dataset of Badly Explained plots.
 - #### <a href="https://github.com/gdscwce/Indian-Meme-Templates">Indian Meme Templates</a> - Dataset of Indian Meme Templates.
 - #### <a href="https://github.com/gdscwce/Indian-Landmarks-API-">Indian Landmarks API</a> - API of Indian Landmarks.
+- #### <a href="https://github.com/gdscwce/Constellation-list-">Constellation List Dataset</a> - Dataset of Constellation.
 - #### <a href="https://github.com/Anuja2512/Answering_Machine">Answering Machine Commands</a> - Add commands for your customized Alexa.
 - #### <a href="https://github.com/GDSC-BSIOTR/Flutter-Widgets">Flutter Widgets Dataset</a> - List of all flutter widgets.
+- #### <a href="https://github.com/GDSC-BSIOTR/Project-Ideas">Project Ideas</a> - List of project ideas which have potential.
