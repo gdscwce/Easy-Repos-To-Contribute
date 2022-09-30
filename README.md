@@ -6,7 +6,7 @@ Find a number of current repositories to contribute to, and begin your open sour
 - #### <a href="https://github.com/GDSC-BSIOTR/Flutter-Widgets">Flutter Widgets Dataset</a> - A dataset collection of Flutter widgets that can be used in your Flutter app.
 - #### <a href="https://github.com/gdscwce/horror-movies-api">Horror Movies API</a> - What's better than some horror moveis in the upcoming Spoky-october.
 - #### <a href="https://github.com/gdscwce/Passwords">Passwords</a> - As straight forward as anything could be, just a collection of mostly/commonly used passwords.
-- #### <a href="https://github.com/gdscwce/Mobile-Info" Mobile Info</a> - Useful information about mobile devices.
+- #### <a href="https://github.com/gdscwce/Mobile-Info"> Mobile Info</a> - Useful information about mobile devices.
 - #### <a href="https://github.com/gdscwce/Laptop-Specification-api">Laptop Specification API</a> - An api which will contain specifications of laptops and maintained by it's users only.
 - #### <a href="https://github.com/gdscwce/CSS-Animations">CSS Animation</a> - A beautiful collection of CSS animatiions which you could use in your upcoming projects.
 - #### <a href="https://github.com/gdscwce/Leetcode-Questions">LeetCode Questions</a> - Frequently asked questions from LeetCode in interviews of MNC's.
