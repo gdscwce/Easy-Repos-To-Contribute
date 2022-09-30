@@ -2,7 +2,7 @@
 The time of Hacktoberfest is here, and this time we're more than just "prepared".
 Find a number of current repositories to contribute to, and begin your open source experience while assisting deployed projects! Sounds interesting? Let's get started!
 
-- #### <a href="https://github.com/GDSC-BSIOTR/Answering_Machine">Answering Machine Python Program</a> - Just add a question that you would like your Alexa to answer in an elif condition.
+- #### <a href="https://github.com/Anuja2512/Answering_Machine">Answering Machine Python Program</a> - Just add a question that you would like your Alexa to answer in an elif condition.
 - #### <a href="https://github.com/GDSC-BSIOTR/Flutter-Widgets">Flutter Widgets Dataset</a> - A dataset collection of Flutter widgets that can be used in your Flutter app.
 - #### <a href="https://github.com/gdscwce/horror-movies-api">Horror Movies API</a> - What's better than some horror moveis in the upcoming Spoky-october.
 - #### <a href="https://github.com/gdscwce/Passwords">Passwords</a> - As straight forward as anything could be, just a collection of mostly/commonly used passwords.
