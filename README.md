@@ -1,5 +1,5 @@
 # Easy-Repos-To-Contribute #TheSpookyMonth
-The time of Hacktoberfest is here, and this time we're more than just "prepared".
+The time of Hacktoberfest is here, and this time we're more than just <b>prepared</b>.
 Find a number of current repositories to contribute to, and begin your open source experience while assisting deployed projects! Sounds interesting? Let's get started!
 
 - #### <a href="https://github.com/Anuja2512/Answering_Machine">Answering Machine Python Program</a> - Just add a question that you would like your Alexa to answer in an elif condition.
@@ -39,3 +39,4 @@ Find a number of current repositories to contribute to, and begin your open sour
 - #### <a href="https://github.com/GDSC-BSIOTR/Project-Ideas">Project Ideas</a> - List of project ideas which have potential.
 - #### <a href="https://github.com/gdscwce/Constellation-list">Constellation List Dataset</a> - Constellation List dataset.
 - #### <a href="https://github.com/gdscwce/Competitive-Programming-Platforms">Competitive Programming Platform</a> - All links to different CP websites.
+- ####<a href="https://github.com/The-Cool-Coders/Project-Ideas-And-Resources">Project Ideas and Resources</a>- All Links for Cool Project ideas and resources
