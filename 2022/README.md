@@ -20,3 +20,4 @@ Find a number of current repositories to contribute to, and begin your open sour
 - #### <a href="https://github.com/gdscwce/mobile_spcification-API"> Mobile Specification</a> - An api providing specification of different mobile models.
 - #### <a href="https://github.com/gdscwce/Kdrama_Dataset"> KDrama</a> - A dataset of popular KDrama.
 - #### <a href="https://github.com/gdscwce/comic-book-api">Comic Books</a> - A api of Comic Books.
+- #### <a href="https://github.com/kevinjycui/picoCTF-2019-writeup">picoCTF-WriteUp</a> - An api of About Solutions and writeups for the picoCTF Cybersecurity Competition
